@@ -59,3 +59,9 @@ h1,h2{
 ul{
     padding-left: 4px;
 }
+
+footer{
+    color: #050504;
+    text-align: center;
+    padding-bottom: 48px;
+}
